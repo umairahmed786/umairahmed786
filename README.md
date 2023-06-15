@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Deep Neural Networks**
 
-- 💬 Ask me about **mean, mern**
+- 💬 Ask me about **MEAN, MERN**
 
 - 📫 How to reach me **umairahmedpaki7@gmail.com**
 
